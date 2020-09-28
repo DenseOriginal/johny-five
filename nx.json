@@ -21,5 +21,15 @@
       }
     }
   },
-  "projects": {}
+  "projects": {
+    "server": {
+      "tags": []
+    },
+    "arduino": {
+      "tags": []
+    },
+    "interfaces": {
+      "tags": []
+    }
+  }
 }
